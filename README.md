@@ -1,3 +1,24 @@
+# 📊 Hotel Booking Machine Learning Project
+
+## 📌 Project Overview
+This project analyzes the **Hotel Booking Dataset** using machine learning techniques for both **classification** and **clustering** tasks.
+
+The main objectives are:
+- Predict whether a hotel booking will be canceled.
+- Discover hidden patterns in booking behavior using clustering methods.
+
+The dataset includes features such as:
+- Lead time  
+- Customer information  
+- Booking channels  
+- Room types  
+- Pricing data (ADR)
+
+---
+
+## 📁 Dataset
+The dataset used in this project is:
+"hotel_bookings.csv"
 
 Target variable:
 - `is_canceled`
